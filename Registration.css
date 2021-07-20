@@ -1,0 +1,32 @@
+Body{
+    margin: 0;
+    padding: 0;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background: url(Flower.JPG) no-repeat;
+    background-size: cover;
+}
+
+.Register-box{
+    width: auto;
+    position : absolute;
+    top: 35%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: black;
+    
+   }
+
+   .Register-box h1{
+    
+    font-size: 40px;
+    border-bottom: 1px solid #4caf50; 
+    margin-bottom: 25px;
+    padding: 3px 0;
+}
+
+
+
+.Name-box{
+    top: 45;
+    left: 50;
+}
